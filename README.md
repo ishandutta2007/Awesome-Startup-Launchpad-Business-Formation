@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discrrd-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation?style=flat-square&color=blue" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List" /></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="CC0 License" /></a>
@@ -57,49 +57,49 @@ Below is the comparative breakdown of the top commercial business formation and 
 
 While legal business formation inherently requires filing with official state registries and municipal databases, the open-source software ecosystem offers critical infrastructure for **open capitalization standards**, **cap table modeling**, **legal document structuring**, and **public entity registration frontends**.
 
-Listed below are top open-source projects, equipped with live social badges linking to their respective stargazer pages, sorted in descending order by GitHub star count:
+Listed below are top open-source projects, equipped with live social badges linking to their respective stargazer pages, sorted in descending order by GitHub Stars_Count:
 
-### 1. [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates) [![GitHub stars](https://img.shields.io/github/stars/General-Legal/legal-templates?style=social&color=white)](https://github.com/General-Legal/legal-templates/stargazers)
+### 1. [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates) [![GitHub_Stars](https://img.shields.io/github/stars/General-Legal/legal-templates?style=social&color=white)](https://github.com/General-Legal/legal-templates/stargazers)
 * **Stars:** 3,600+ ⭐ | **License:** CC0-1.0 | **Stack:** Markdown / Legal Templates
 * **Description:** A comprehensive, attorney-drafted public collection of high-quality legal templates published under the CC0 public domain license. It includes early-stage founder incorporation documents, founder IP assignment agreements, non-disclosure agreements (NDAs), advisory agreements, and consulting contracts.
 * **Why it stands out:** Offers transparent legal boilerplate that eliminates expensive legal retainer costs for standard pre-incorporation agreements.
 
-### 2. [Open-Cap-Table-Coalition/Open-Cap-Format-OCF](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF) [![GitHub stars](https://img.shields.io/github/stars/Open-Cap-Table-Coalition/Open-Cap-Format-OCF?style=social&color=white)](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/stargazers)
+### 2. [Open-Cap-Table-Coalition/Open-Cap-Format-OCF](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF) [![GitHub_Stars](https://img.shields.io/github/stars/Open-Cap-Table-Coalition/Open-Cap-Format-OCF?style=social&color=white)](https://github.com/Open-Cap-Table-Coalition/Open-Cap-Format-OCF/stargazers)
 * **Stars:** 195+ ⭐ | **License:** Apache-2.0 | **Stack:** JSON Schema / TypeScript
 * **Description:** The Open Cap Format (OCF) is an open-source data standard initiated by leading legal firms, software providers, and venture funds to structure and exchange capitalization data seamlessly across equity platforms without vendor lock-in.
 * **Why it stands out:** Governs share classes, vesting schedules, stock options, and convertible instruments (SAFEs), making cap table records interoperable between legal counsel and platforms like Carta, Pulley, and AngelList.
 
-### 3. [1984vc/cap-table](https://github.com/1984vc/cap-table) [![GitHub stars](https://img.shields.io/github/stars/1984vc/cap-table?style=social&color=white)](https://github.com/1984vc/cap-table/stargazers)
+### 3. [1984vc/cap-table](https://github.com/1984vc/cap-table) [![GitHub_Stars](https://img.shields.io/github/stars/1984vc/cap-table?style=social&color=white)](https://github.com/1984vc/cap-table/stargazers)
 * **Stars:** 143+ ⭐ | **License:** Open Source | **Stack:** Spreadsheet / Financial Models
 * **Description:** An open-source capitalization table modeling worksheet developed by venture capital firm 1984 Ventures. Enables early-stage founders to run scenario planning, pro-forma share issuances, option pool expansions, and priced equity funding rounds.
 * **Why it stands out:** Transparent mathematical formulas for pre-money and post-money SAFE conversions with round-by-round dilution visibility.
 
-### 4. [Open-Cap-Stack/opencap](https://github.com/Open-Cap-Stack/opencap) [![GitHub stars](https://img.shields.io/github/stars/Open-Cap-Stack/opencap?style=social&color=white)](https://github.com/Open-Cap-Stack/opencap/stargazers)
+### 4. [Open-Cap-Stack/opencap](https://github.com/Open-Cap-Stack/opencap) [![GitHub_Stars](https://img.shields.io/github/stars/Open-Cap-Stack/opencap?style=social&color=white)](https://github.com/Open-Cap-Stack/opencap/stargazers)
 * **Stars:** 25+ ⭐ | **License:** MIT | **Stack:** TypeScript / Next.js / Node.js
 * **Description:** An open-source cap table and equity management platform built as a self-hosted alternative to Carta and Pulley for venture-backed startups and growing teams.
 * **Why it stands out:** Provides stakeholder tracking, stock grant issuances, and exercise management with zero SaaS recurring seat fees.
 
-### 5. [TBI-AI-Incubator/codify](https://github.com/TBI-AI-Incubator/codify) [![GitHub stars](https://img.shields.io/github/stars/TBI-AI-Incubator/codify?style=social&color=white)](https://github.com/TBI-AI-Incubator/codify/stargazers)
+### 5. [TBI-AI-Incubator/codify](https://github.com/TBI-AI-Incubator/codify) [![GitHub_Stars](https://img.shields.io/github/stars/TBI-AI-Incubator/codify?style=social&color=white)](https://github.com/TBI-AI-Incubator/codify/stargazers)
 * **Stars:** 14+ ⭐ | **License:** Apache-2.0 | **Stack:** Python / Akoma Ntoso XML / REST API
 * **Description:** Legal document structuring engine that converts unstructured legal documents (PDFs, text agreements, charters) into machine-readable Akoma Ntoso XML, anchoring sections, clauses, and corporate definitions.
 * **Why it stands out:** Excellent for analyzing certificates of incorporation, corporate bylaws, and operating agreements programmatically.
 
-### 6. [bcgov/business-filings-ui](https://github.com/bcgov/business-filings-ui) [![GitHub stars](https://img.shields.io/github/stars/bcgov/business-filings-ui?style=social&color=white)](https://github.com/bcgov/business-filings-ui/stargazers)
+### 6. [bcgov/business-filings-ui](https://github.com/bcgov/business-filings-ui) [![GitHub_Stars](https://img.shields.io/github/stars/bcgov/business-filings-ui?style=social&color=white)](https://github.com/bcgov/business-filings-ui/stargazers)
 * **Stars:** 12+ ⭐ | **License:** Apache-2.0 | **Stack:** Vue.js / TypeScript
 * **Description:** Official open-source digital registry interface developed by BC Registry Services (Government of British Columbia) for business maintenance, corporate filings, and compliance tracking.
 * **Why it stands out:** Production-grade blueprint demonstrating how modern state and provincial governments implement digital business incorporation portals.
 
-### 7. [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) [![GitHub stars](https://img.shields.io/github/stars/bcgov/business-create-ui?style=social&color=white)](https://github.com/bcgov/business-create-ui/stargazers)
+### 7. [bcgov/business-create-ui](https://github.com/bcgov/business-create-ui) [![GitHub_Stars](https://img.shields.io/github/stars/bcgov/business-create-ui?style=social&color=white)](https://github.com/bcgov/business-create-ui/stargazers)
 * **Stars:** 11+ ⭐ | **License:** Apache-2.0 | **Stack:** TypeScript / Vue.js
 * **Description:** Production incorporation application frontend built by the British Columbia government to handle step-by-step entity formation, officer declarations, and registry submissions.
 * **Why it stands out:** Full-fledged open-source reference for step-by-step legal entity formation wizards and public registry integration.
 
-### 8. [acossta/captan](https://github.com/acossta/captan) [![GitHub stars](https://img.shields.io/github/stars/acossta/captan?style=social&color=white)](https://github.com/acossta/captan/stargazers)
+### 8. [acossta/captan](https://github.com/acossta/captan) [![GitHub_Stars](https://img.shields.io/github/stars/acossta/captan?style=social&color=white)](https://github.com/acossta/captan/stargazers)
 * **Stars:** 3+ ⭐ | **License:** Open Source | **Stack:** Node.js / CLI / Git
 * **Description:** A minimalist, developer-first command-line tool for managing startup cap tables using a single version-controlled JSON file and Git history — requiring zero database infrastructure.
 * **Why it stands out:** Supports vesting schedules, SAFE conversions, and CSV investor exports completely within a local Git repository.
 
-### 9. [kosmitor/kosmitor](https://github.com/kosmitor/kosmitor) [![GitHub stars](https://img.shields.io/github/stars/kosmitor/kosmitor?style=social&color=white)](https://github.com/kosmitor/kosmitor/stargazers)
+### 9. [kosmitor/kosmitor](https://github.com/kosmitor/kosmitor) [![GitHub_Stars](https://img.shields.io/github/stars/kosmitor/kosmitor?style=social&color=white)](https://github.com/kosmitor/kosmitor/stargazers)
 * **Stars:** 2+ ⭐ | **License:** Open Source | **Stack:** TypeScript / React / PostgreSQL
 * **Description:** Full-stack open-source cap table and equity platform covering equity grants, vesting cliffs, priced-round modeling, waterfall exits, and US compliance calculations (Rule 701, 83(b), 409A).
 * **Why it stands out:** Includes 24 user interface screens and a standalone, dependency-free math engine for verified financial precision.
