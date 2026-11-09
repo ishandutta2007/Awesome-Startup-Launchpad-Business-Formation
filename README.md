@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discrrd-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Startup-Launchpad-Business-Formation?style=flat-square&color=blue" alt="Forks" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List" /></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="CC0 License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -24,6 +24,8 @@
 - [💻 Open-Source Software & Tooling](#-open-source-software--tooling)
 - [⚖️ Feature & Architecture Comparison](#️-feature--architecture-comparison)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📜 License](#-license)
 
 ---
@@ -135,6 +137,23 @@ Contributions are welcomed and encouraged! If you know of an active open-source 
 4. 🚀 Commit your changes (`git commit -m 'Add new open-source cap table tool'`).
 5. 📤 Push to the branch (`git push origin feature/cool-new-tool`).
 6. 📬 Open a Pull Request!
+
+---
+
+## 💖 Support
+
+If you found this curated list helpful for launching your business, structuring your equity, or discovering open-source tooling, please consider supporting the project:
+
+- ⭐ **Star** this repository to help other entrepreneurs discover it.
+- 🍴 **Fork** and contribute additions or updates.
+- 📢 **Share** with founders, operators, and startup communities.
+- ☕ **Buy me a coffee**: Support ongoing open-source maintenance directly on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Startup-Launchpad-Business-Formation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Startup-Launchpad-Business-Formation&type=date&legend=top-left)
 
 ---
 
